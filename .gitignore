@@ -1,0 +1,4 @@
+#This includes files that should not be uploaded to git hub for colloboration.
+
+.ipynb_checkpoints
+MapFind2.py-checkpoint.ipynb
